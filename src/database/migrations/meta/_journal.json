@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1728831366876,
+      "tag": "0000_common_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1728834080736,
+      "tag": "0001_tiresome_umar",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1728834181936,
+      "tag": "0002_spooky_colonel_america",
+      "breakpoints": true
+    }
+  ]
+}
